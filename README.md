@@ -15,8 +15,12 @@ I will build a subdomain scanner in Python using requests library.
     
 ### Step 2:
 
-    Locate to the directory where python file is located 📂
-   
+    git clone https://github.com/lisus18ikrak/subfindr.git 📂
+    
+ ### Step 3:  
+ 
+    cd subfindr
+    
 ### Step 3:
 
     Install the required packages that using the command pip3 install -r requirement.txt
@@ -30,6 +34,4 @@ I will build a subdomain scanner in Python using requests library.
     Sit back and Relax. Let the Script do the Job. ☕
 
 ### Screenshots of Output
-
-<img src="Output1.jpeg">
-<img src="Output2.jpeg">
+    Try Yourself
