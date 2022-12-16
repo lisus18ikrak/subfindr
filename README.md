@@ -21,17 +21,18 @@ I will build a subdomain scanner in Python using requests library.
  
     cd subfindr
     
-### Step 3:
+### Step 4:
 
     Install the required packages that using the command pip3 install -r requirement.txt
 
-### Step 4:
+### Step 5:
     
     Run the `program.py` file as python3 program.py
 
-### Step 5:
+### Step 6:
 
     Sit back and Relax. Let the Script do the Job. ☕
 
 ### Screenshots of Output
     Try Yourself
+   
